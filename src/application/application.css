@@ -1,0 +1,36 @@
+ * {
+    dark-primary-color: #616161;
+    default-primary-color: #696969; 
+    text-primary-color: #212121; 
+    light-primary-color: #F5F5F5; 
+    accent-color: #1E90FF; 
+    primary-text-color: #212121; 
+    gray: #808080;
+    divider-color: #BDBDBD;
+}
+
+.root {
+    -fx-background-color: default-primary-color;
+    -fx-border-top-left-radius: 10px; 
+    -fx-border-top-right-radius: 10px; 
+    -fx-border-bottom-left-radius: 10px; 
+    -fx-border-bottom-right-radius: 10px; 
+     -fx-background-radius: 15;
+}
+
+.menubar {
+	 -fx-background-color: gray;
+	 -fx-effect: dropshadow(one-pass-box, black, 20, 0.0 , 6, 0);
+	  -fx-background-radius: 8;
+	  /*-fx-font: Gill Sans MT Ext Condensed Bold;
+	 */
+}
+
+
+
+.button {
+
+    -fx-background-color: gray;
+    -fx-effect: dropshadow(one-pass-box, black, 20, 0.0 , 6, 0);
+    -fx-background-radius: 8;
+}
