@@ -1,6 +1,6 @@
 # Bird Flock Analyser 
 
-Bird Flock Analyser System that processes Images through a suffisticated Algorithm
+This Bird Flock Analyser is a System that processes Images through a suffisticated Algorithm.
 
 The objective of this Project exercise was to create a JavaFX application that can be supplied with an
 image/photo of a flock of birds in the sky. When given an image, the application should
